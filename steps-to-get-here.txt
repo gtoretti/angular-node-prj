@@ -1,0 +1,15 @@
+ng new angular-prj
+
+sudo npm install -g npm
+
+git remote add origin https://github.com/gtoretti/angular-prj.git
+
+git push -u origin master
+
+npm install
+
+ng serve
+(http://localhost:4200/)
+
+ng serve --ssl true
+(https://localhost:4200/)
