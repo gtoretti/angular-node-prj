@@ -13,3 +13,9 @@ ng serve
 
 ng serve --ssl true
 (https://localhost:4200/)
+
+
+
+
+magic build:
+node_modules/@angular/cli/bin/ng build --configuration=others --base-href=/cea-ui/ --output-path=../static
