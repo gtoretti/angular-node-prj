@@ -2,7 +2,7 @@ ng new angular-prj
 
 sudo npm install -g npm
 
-git remote add origin https://github.com/gtoretti/angular-prj.git
+git remote add origin https://github.com/<your_userid>/angular-prj.git
 
 git push -u origin master
 
